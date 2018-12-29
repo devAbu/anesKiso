@@ -1,0 +1,23 @@
+.jumbotron {
+    background-image: url('../images/logo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+#aboutus {
+    text-decoration: underline;
+}
+
+#menu {
+    text-decoration: underline;
+}
+
+#images {
+    text-decoration: underline;
+}
+
+#card {
+    padding: 0
+}
