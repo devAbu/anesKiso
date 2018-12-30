@@ -1,8 +1,8 @@
 <?php
 
-define('DB_USER', 'abu');
-define('DB_PASSWORD', 'aburefko159753');//mysql valjda za mac :P
-define('DB_HOST', 'localhost');
+define('DB_USER', 'kiso');
+define('DB_PASSWORD', 'password');//mysql valjda za mac :P
+define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'aneskiso');
 
 
